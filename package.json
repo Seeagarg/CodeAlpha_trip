@@ -1,7 +1,7 @@
 {
   "name": "trip",
   "version": "0.1.0",
-  "homepage": "https://seeagarg.github.io/CodeAlpha_trip",
+  "homepage": "https://Seeagarg.github.io/CodeAlpha_trip",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
